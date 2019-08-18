@@ -1,0 +1,1 @@
+This is Frau´s first git project!
